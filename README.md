@@ -3,7 +3,7 @@
 A collection of solved algorithm problems from **LeetCode**
 
 ![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-blue)
-![Problems](https://img.shields.io/badge/Problems%20Solved-2-green)
+![Problems](https://img.shields.io/badge/Problems%20Solved-3-green)
 
 ---
 
@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 2               |
+| LeetCode     | 3               |
 
 ---
 
@@ -21,9 +21,10 @@ A collection of solved algorithm problems from **LeetCode**
 |---|---------|----------|------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](1-two-sum.ts) | 🟢 Easy |
 | 2 | [Plus One](https://leetcode.com/problems/plus-one/) | [TypeScript](66-plus-one.ts) | 🟢 Easy |
+| 3 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts) | 🟡 Medium |
 ---
 
-## �🛠️ Languages Used
+## 🛠️ Languages Used
 
 - **JavaScript** - Primary language for most solutions
 - **TypeScript** - Type-safe JavaScript solutions
