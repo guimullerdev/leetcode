@@ -11,7 +11,7 @@ A collection of solved algorithm problems from **LeetCode**
 
 | Platform     | Problems Solved |
 |--------------|-----------------|
-| LeetCode     | 3               |
+| LeetCode     | 4               |
 
 ---
 
@@ -22,6 +22,7 @@ A collection of solved algorithm problems from **LeetCode**
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](1-two-sum.ts) | 🟢 Easy |
 | 2 | [Plus One](https://leetcode.com/problems/plus-one/) | [TypeScript](66-plus-one.ts) | 🟢 Easy |
 | 3 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts) | 🟡 Medium |
+| 4 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [TypeScript](206-reverse-linked-list.ts) | 🟡 Medium |
 ---
 
 ## 🛠️ Languages Used
