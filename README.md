@@ -9,21 +9,23 @@ A collection of solved algorithm problems from **LeetCode**
 
 ## 📊 Summary
 
-| Platform     | Problems Solved |
-|--------------|-----------------|
-| LeetCode     | 4               |
+| Platform | Problems Solved |
+| -------- | --------------- |
+| LeetCode | 6               |
 
 ---
 
 ## 🔶 LeetCode Problems
 
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [TypeScript](1-two-sum.ts) | 🟢 Easy |
-| 2 | [Plus One](https://leetcode.com/problems/plus-one/) | [TypeScript](66-plus-one.ts) | 🟢 Easy |
-| 3 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts) | 🟡 Medium |
-| 4 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [TypeScript](206-reverse-linked-list.ts) | 🟡 Medium |
-| 5 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [TypeScript](876-middle-of-the-linked-list.ts) | 🟡 Medium |
+| #   | Problem                                                                                   | Solution                                         | Difficulty |
+| --- | ----------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------- |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                         | [TypeScript](1-two-sum.ts)                       | 🟢 Easy    |
+| 2   | [Plus One](https://leetcode.com/problems/plus-one/)                                       | [TypeScript](66-plus-one.ts)                     | 🟢 Easy    |
+| 3   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [TypeScript](98-validate-binary-search-tree.ts)  | 🟡 Medium  |
+| 4   | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                 | [TypeScript](206-reverse-linked-list.ts)         | 🟡 Medium  |
+| 5   | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)     | [TypeScript](876-middle-of-the-linked-list.ts)   | 🟡 Medium  |
+| 6   | [Threshold Majority Element](https://leetcode.com/problems/threshold-majority-queries/)   | [TypeScript](3636-threshold-majority-queries.ts) | Hard       |
+
 ---
 
 ## 🛠️ Languages Used
@@ -42,6 +44,7 @@ A collection of solved algorithm problems from **LeetCode**
 ## 🚀 How to Run
 
 ### JavaScript/TypeScript
+
 ```bash
 node filename.js
 # or with ts-node for TypeScript
